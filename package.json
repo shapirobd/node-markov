@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shapirobd/node-markov/issues"
   },
-  "homepage": "https://github.com/shapirobd/node-markov#readme"
+  "homepage": "https://github.com/shapirobd/node-markov#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
 }
